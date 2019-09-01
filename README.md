@@ -36,4 +36,4 @@ In this tutorial, I learnt to
 6. Support Vector Machines (SVM)
 
 ## What I Learned
-I was suprised how easy it was to actually perform prediction and the feasability of SciPy packages in Python. Although I did not type all the code by myself, nor did I understand everything in the code. It was a good introduction as to how prediction machine learning is performed. 
+I was suprised how easy it was to actually perform prediction and the feasability of SciPy packages in Python. Although I did not type all the code by myself, nor did I understand everything in the code. It was a good introduction as to how prediction machine learning is performed. It gave me a simple overview of the steps involved in creating a machine learning project and gave me invaluable experience in handling an IDE. I am also more confident of approaching other ML projects. 
