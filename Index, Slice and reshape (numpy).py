@@ -1,1 +1,0 @@
-# https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/
